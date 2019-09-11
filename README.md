@@ -1,4 +1,4 @@
-# codes
+# codes 
 
-this repository contains useful codes for neuronal assemblies analysis
+this repository contains useful codes made in MatLab for neuronal ensambles analysis
 
